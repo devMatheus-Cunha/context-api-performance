@@ -14,6 +14,7 @@ This project was developed with the following technologies:
 - [x] Next
 - [x] TypeScript
 - [x] Context API
+- [x] Tailwind
 
 ## 🚀 How to run
 
