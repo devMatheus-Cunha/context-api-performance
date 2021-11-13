@@ -2,13 +2,9 @@
  Basic Next chat
 </h1>
 
-<hr>
-
 ## About
 
 Project developed to show the use of the more performant Context Api in a basic chat using Next.js.
-
-<hr>
 
 ## 🧪 Technologies
 
